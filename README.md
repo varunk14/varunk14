@@ -16,7 +16,7 @@
 
 I'm a passionate **Full Stack Developer** and **Community Builder** from India, dedicated to creating meaningful impact through technology.
 
-- 🔭 Currently working on **Iron Lady** - A Women's Safety App
+- 🔭 Currently Building an App 
 - 🌱 Learning **AI/ML** and exploring **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, React Native, Node.js, Python**
@@ -56,67 +56,9 @@ I'm a passionate **Full Stack Developer** and **Community Builder** from India, 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ Iron Lady</h3>
-      <p align="center">
-        <a href="https://github.com/varunk14/iron-lady">
-          <img src="public/APP/icon.png" width="200" alt="Iron Lady"/>
-        </a>
-      </p>
-      <p align="center">
-        Women's Safety & Empowerment Platform with real-time SOS, location tracking, and community support.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤝 Community Hub</h3>
-      <p align="center">
-        <a href="https://github.com/varunk14/community-platform">
-          <img src="https://via.placeholder.com/200x200/9B7FC4/FFFFFF?text=Community" width="200" alt="Community Hub"/>
-        </a>
-      </p>
-      <p align="center">
-        Full-stack collaboration platform for knowledge sharing, networking, and project collaboration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunk14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FC4&icon_color=9B7FC4" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunk14&theme=tokyonight&hide_border=true&background=0D1117&ring=9B7FC4&fire=9B7FC4&currStreakLabel=9B7FC4" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunk14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FC4" alt="Top Languages"/>
-</p>
-
----
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunk14&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
 
 ---
 
