@@ -68,32 +68,3 @@ I'm a passionate **Full Stack Developer** and **Community Builder** from India, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunk14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9B7FC4&line=9B7FC4&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  I'm always open to interesting conversations and collaboration opportunities!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/korukoppulavarunkrishna/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunk14&color=9B7FC4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <b>⭐ From <a href="https://github.com/varunk14">Varun Krishna</a></b>
-</p>
