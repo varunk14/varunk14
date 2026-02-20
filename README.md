@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full Stack Developer** and **Community Builder** from India, dedicated to creating meaningful impact through technology.
 
