@@ -82,9 +82,5 @@ I'm a passionate **Full Stack Developer** and **Community Builder** from India, 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/9B7FC4/varunk14" alt="Varun Krishna's GitHub Contribution Chart" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=varunk14&theme=tokyonight&hide_border=true&background=0D1117&ring=9B7FC4&fire=9B7FC4&currStreakLabel=9B7FC4" alt="GitHub Streak"/>
+  <img src="https://activity-graph.vercel.app/graph?username=varunk14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9B7FC4&line=9B7FC4&point=FFFFFF" alt="Contribution Graph"/>
 </p>
