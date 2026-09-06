@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B7FC4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;AI%2FML+Builder;Community+Builder;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B7FC4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;AI%2FML+Builder;Community+Builder;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,10 +79,12 @@ I'm a passionate **Full Stack Developer** and **Community Builder** from India, 
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunk14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9B7FC4&line=9B7FC4&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/9B7FC4/varunk14" alt="Varun Krishna's GitHub Contribution Chart" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=varunk14&theme=tokyonight&hide_border=true&background=0D1117&ring=9B7FC4&fire=9B7FC4&currStreakLabel=9B7FC4" alt="GitHub Streak"/>
 </p>
